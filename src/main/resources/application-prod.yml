@@ -3,8 +3,8 @@ spring:
   # DataSource Config
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    username: chen
-    password: chen
+    username: root
+    password: root
     url: jdbc:mysql://windows:3306/user_center?useSSL=false&serverTimezone=Asia/Shanghai&characterEncoding=utf-8&autoReconnect=true
   session:
-    timeout: 86600
+    timeout: 86400
