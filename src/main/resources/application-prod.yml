@@ -7,4 +7,4 @@ spring:
     password: chen
     url: jdbc:mysql://windows:3306/user_center?useSSL=false&serverTimezone=Asia/Shanghai&characterEncoding=utf-8&autoReconnect=true
   session:
-    timeout: 86500
+    timeout: 86600
